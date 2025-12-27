@@ -235,13 +235,19 @@ Tavern Card Crafter simplifies AI character card creation by combining intellige
 
 ## Development Roadmap
 
-### Phase 1: Core Stability (Current)
+### Phase 1: Core Stability (DONE)
 - Fix port mismatch issue
 - Add comprehensive error handling for AI failures
 - Improve PNG parsing robustness
 - Add input validation for all fields
 
-### Phase 2: Enhanced Features (Q1 2025)
+### Phase 2: Vietnamese i18n (In Progress)
+- Add complete Vietnamese language support
+- UI translation for all labels and messages
+- AI prompt adaptation for Vietnamese linguistic characteristics
+- Token estimation updates for Vietnamese text (1.3x multiplier)
+
+### Phase 3: Enhanced Features (Q1 2025)
 - Multi-character project management
 - Character versioning and diff viewer
 - Template library for common character archetypes

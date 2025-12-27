@@ -1,10 +1,10 @@
 ---
 title: "Vietnamese Language Support for Tavern Card Crafter"
 description: "Add complete Vietnamese i18n support including UI labels, AI prompts, and token estimation"
-status: pending
+status: in-progress
 priority: P1
 effort: 6h
-branch: prime
+branch: vietnamese
 tags: [i18n, vietnamese, ai-prompts, localization]
 created: 2025-12-28
 ---
@@ -34,12 +34,12 @@ Based on research reports in `./research/`:
 ## Implementation Phases
 
 ### [Phase 1: Git Branch Setup](./phase-01-git-branch-setup.md)
-**Status**: Pending | **Effort**: 15min
+**Status**: DONE (2025-12-28 01:57) | **Effort**: 15min
 - Create `vietnamese` branch from `prime`
 - Set up plan structure
 
 ### [Phase 2: LanguageContext Vietnamese Translation](./phase-02-languagecontext-vietnamese.md)
-**Status**: Pending | **Effort**: 2h
+**Status**: In Progress | **Effort**: 2h
 - Add `vi` language type
 - Translate 70+ UI strings to Vietnamese
 - Update localStorage and type unions

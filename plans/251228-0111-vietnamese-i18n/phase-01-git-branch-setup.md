@@ -1,7 +1,7 @@
 # Phase 1: Git Branch Setup
 
 **Parent Plan**: [Vietnamese Language Support](./plan.md)
-**Status**: Pending | **Priority**: P1 | **Effort**: 15min
+**Status**: DONE (2025-12-28 01:57) | **Priority**: P1 | **Effort**: 15min
 **Date**: 2025-12-28
 
 ## Overview
@@ -79,11 +79,11 @@ node .claude/scripts/set-active-plan.cjs plans/251228-0111-vietnamese-i18n
 
 ## Todo List
 
-- [ ] Verify working directory clean (`git status`)
-- [ ] Create `vietnamese` branch from `prime`
-- [ ] Verify branch HEAD matches `prime`
-- [ ] Push branch to remote with upstream tracking
-- [ ] Update session state with active plan path
+- [x] Verify working directory clean (`git status`)
+- [x] Create `vietnamese` branch from `prime`
+- [x] Verify branch HEAD matches `prime`
+- [x] Push branch to remote with upstream tracking
+- [x] Update session state with active plan path
 
 ## Success Criteria
 
