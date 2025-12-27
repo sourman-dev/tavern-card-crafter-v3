@@ -188,6 +188,21 @@ src/
     └── preload.js      # Preload scripts
 ```
 
+## Documentation
+
+Comprehensive technical documentation is available in the `/docs` directory:
+
+- **[Project Overview & PDR](docs/project-overview-pdr.md)**: Product vision, features, requirements, success metrics
+- **[Codebase Summary](docs/codebase-summary.md)**: Directory structure, component analysis, data models
+- **[Code Standards](docs/code-standards.md)**: Coding conventions, patterns, best practices
+- **[System Architecture](docs/system-architecture.md)**: Architecture diagrams, data flow, integration points
+
+**Quick Reference**:
+- Character Card V3 Specification: See [Project Overview](docs/project-overview-pdr.md#appendix)
+- AI Provider Setup: See [Codebase Summary](docs/codebase-summary.md#ai-integration)
+- PNG Steganography: See [System Architecture](docs/system-architecture.md#png-steganography)
+- Development Standards: See [Code Standards](docs/code-standards.md)
+
 ## Contribution Guide
 
 Welcome to submit Issue and Pull Request to help improve your project!
